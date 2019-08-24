@@ -1,0 +1,43 @@
+https://dse19.mahacet.org.in/dse19/index.php/hp_controller/instcourses
+
+1.PCCOE
+2.6141-Jaywant Shik
+shan Prasarak Mandal's,Rajarshi Shahu College of Engineering, Tathawade, Pune( Un-Aided )
+
+-	614124510	Computer Engineering	First Shift	60
+-	614124610	Information Technology	First Shift	120
+
+3.6144-Genba Sopanrao Moze College of Engineering, Baner-Balewadi, Pune( Un-Aided )
+
+4.6139-Progressive Education Society's Modern College of Engineering, Pune( Un-Aided )
+
+5.6138-Genba Sopanrao Moze Trust Parvatibai Genba Moze College of Engineering,Wagholi, Pune( Un-Aided )
+
+6.6122-TSSMS's Pd. Vasantdada Patil Institute of Technology, Bavdhan, Pune( Un-Aided )
+7.6808-Keystone School of Engineering, Pune
+8.6802-Dr. D.Y.Patil Institute of Engineering, Management & Reseach, Akurdi, Pune( Un-Aided )
+9.6796-Bharati Vidyapeeth's College of Engineering,Lavale, Pune( Un-Aided )
+10.6794-Anantrao Pawar College of Engineering & Research, Pune( Un-Aided )
+11.6786-Dr. D. Y. Patil School of Engineering & Technology, Charholi(Bk), Via Lohgaon, Pune( Un-Aided )
+12.6772-NBN Sinhgad Technical Institutes Campus, Pune( Un-Aided )
+13.6769-Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Warje, Pune.( Un-Aided )
+14.6755-JSPM Narhe Technical Campus, Pune.( Un-Aided )
+15.6754-International Institute of Information Technology (IIT), Pune.( Un-Aided )
+16.6649-TSSM's Bhivarabai Sawant College of Engineering and Research, Narhe, Pune( Un-Aided )
+17.6289-B.R.A.C.T's Vishwakarma Institute of Information Technology, Kondhwa (Bk.), Pune( Un-Aided -Autonomous)
+18.6285-Bharati Vidyapeeth's College of Engineering for Women, Katraj, Dhankawadi, Pune( Un-Aided )
+19.6281-Modern Education Society's College of Engineering, Pune( Un-Aided )
+20.-Pune Vidyarthi Griha's College of Engineering and Technology, Pune( Un-Aided )
+21.6273-Bansilal Ramnath Agarawal Charitable Trust's Vishwakarma Institute of Technology, Bibwewadi, Pune( Un-Aided -Autonomous)
+22.6271-Pune Institute of Computer Technology, Dhankavdi, Pune( Un-Aided )
+23.6207-Dr. D. Y. Patil Vidya Pratishthan Society Dr .D. Y. Patil Institute of Engineering & Technology, Pimpri,Pune( Un-Aided )
+24.6206-Pune District Education Association's College of Engineering, Pune( Un-Aided )
+25.6179-Indira College of Engineering & Management, Pune( Un-Aided )
+26.6177-Sinhgad College of Engineering, Vadgaon (BK), Pune( Un-Aided )
+27.6176-G. H.Raisoni Institute of Engineering and Technology, Wagholi, Pune( Un-Aided -Linguistic Minority - Hindi )
+28.6175-Pimpri Chinchwad Education Trust, Pimpri Chinchwad College of Engineering, Pune( Un-Aided )
+29.6156-Marathwada Mitra Mandal's College of Engineering, Karvenagar, Pune( Un-Aided )
+
+
+
+
